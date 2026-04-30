@@ -2,7 +2,7 @@ import gdown
 import zipfile
 import os
 
-MODEL_URL = "https://drive.google.com/drive/folders/1QMl2XjKZnMQRKCmH0DSFOZ7UGcAE3SZR?usp=share_link"
+MODEL_URL = "https://drive.google.com/uc?id=1MP3JSTLo4tz2F5rSYow9-Qu4ReJDmwEZ"
 
 ZIP_NAME = "models.zip"
 OUTPUT_DIR = "models"
