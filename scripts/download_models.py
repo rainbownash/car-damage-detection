@@ -14,7 +14,7 @@ def download_models():
 
     print("📂 Descomprimiendo modelos...")
 
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    # os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     with zipfile.ZipFile(ZIP_NAME, 'r') as zip_ref:
         zip_ref.extractall(OUTPUT_DIR)
