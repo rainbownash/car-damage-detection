@@ -7,7 +7,7 @@ Este proyecto aborda la detección y localización automática de daños visible
 ## Dataset
 
 El dataset no está incluido en el repositorio por limitaciones de tamaño.
-Se puede descargar en: https://universe.roboflow.com/car-damage-kadad/car-damage-v5/dataset/1
+Se puede descargar en: https://universe.roboflow.com/car-damage-kadad/car-damage-v5/dataset/1 (YOLOv8)
 
 ## Ejecución del notebook
 
