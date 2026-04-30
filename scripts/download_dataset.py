@@ -2,7 +2,7 @@ import gdown
 import zipfile
 import os
 
-DATA_URL = "https://drive.google.com/file/d/1ta_wEk9zLT81WncQYBW7jZOQ6G3odRnk/view?usp=share_link"
+DATA_URL = "https://drive.google.com/uc?id=1ta_wEk9zLT81WncQYBW7jZOQ6G3odRnk"
 
 ZIP_NAME = "dataset.zip"
 OUTPUT_DIR = "dataset"
